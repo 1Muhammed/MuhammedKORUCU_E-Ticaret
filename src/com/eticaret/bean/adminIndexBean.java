@@ -36,7 +36,7 @@ public class adminIndexBean {
 
 	default:ortaalanURL="mainpage.xhtml";break;
 		
-	}	
+		}	
 	}
 	
 	

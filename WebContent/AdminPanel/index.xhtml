@@ -38,6 +38,15 @@
 </h:head>
 
 <h:body class="nav-md">
+<script>
+
+function secim(id){
+	document.getElementById('frmanasayfa:txtsecim').value=id;
+	document.getElementById('frmanasayfa:btnsec').click();
+}
+
+
+</script>
 <h:form>
 
 <h:inputText value="#{adminIndexBean.secilenid}"/>

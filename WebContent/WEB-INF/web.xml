@@ -3,7 +3,7 @@
   <display-name>MuhammedKORUCU_E-Ticaret</display-name>
   <welcome-file-list>
    
-    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.jsf</welcome-file>
    
   </welcome-file-list>
   <servlet>
